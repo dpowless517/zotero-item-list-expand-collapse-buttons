@@ -51,3 +51,9 @@ The extension's source code is offered under the [MIT License](LICENSE). The fol
 ## Issues
 
 When reporting an issue, please include your Zotero version, operating system, steps to reproduce, and whether the toolbar buttons appear or simply don't respond. Avoid sharing private library content in screenshots.
+
+## Development and AI Assistance
+
+This plugin was developed with assistance from OpenAI's ChatGPT, which helped generate and refine the JavaScript code, troubleshoot installation issues, and prepare the documentation.
+
+The plugin was tested in Zotero 10 on Windows to confirm that the expand and collapse buttons function as intended.
